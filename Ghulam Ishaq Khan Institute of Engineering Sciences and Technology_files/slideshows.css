@@ -1,0 +1,115 @@
+/*.ss1_wrapper {
+    cursor: default;
+    /*position: relative;*/
+    /*width: 980px;
+    height: 370px;
+    margin: 0 auto 0 auto;
+    font-family: Open Sans;
+    box-shadow: 0 0 6px #CCC
+}
+.ss1_wrapper .slideshow {
+    position: relative;
+    width: 980px;
+    height: 370px
+}
+.ss1_wrapper .slideshow_item {
+    width: 980px;
+    height: 370px
+}
+.ss1_wrapper .slideshow_item .data {
+    display: none
+}
+.ss1_wrapper a.slideshow_prev {
+    position: absolute;
+    right: 70px;
+    bottom: 180px;
+    z-index: 10;
+    width: 40px;
+    height: 46px;
+    outline: 0;
+    background: url(/images/image-rotator/trans-black-70.png)
+}
+.ss1_wrapper a.slideshow_prev:hover {
+    background: #000
+}
+.ss1_wrapper a.slideshow_prev span {
+    display: block;
+    width: 40px;
+    height: 46px;
+    background: url(/images/image-rotator/arrows.png) no-repeat -55px 50%;
+    text-indent: -9999px
+}
+.ss1_wrapper a.slideshow_next {
+    position: absolute;
+    right: 30px;
+    bottom: 180px;
+    z-index: 10;
+    width: 40px;
+    height: 46px;
+    outline: 0;
+    background: url(/images/image-rotator/trans-black-70.png)
+}
+.ss1_wrapper a.slideshow_next:hover {
+    background: #000
+}
+.ss1_wrapper a.slideshow_next span {
+    display: block;
+    width: 40px;
+    height: 46px;
+    background: url(/images/image-rotator/arrows.png) no-repeat -5px 50%;
+    text-indent: -9999px
+}
+.ss1_wrapper .slideshow_paging {
+    position: absolute;
+    bottom: 10px;
+    right: 60px;
+    z-index: 11;
+    font-size: 12px
+}
+.ss1_wrapper .slideshow_paging a {
+    display: block;
+    float: left;
+    margin: 0 0 0 2px;
+    padding: 4px 7px;
+    color: #ccc;
+    text-decoration: none
+}
+.ss1_wrapper .slideshow_paging a:hover {
+    color: #fff
+}
+.ss1_wrapper .slideshow_paging a.activeSlide {
+    background: #eee;
+    color: #222
+}
+.ss1_wrapper .slideshow_box {
+    position: absolute;
+    right: 30px;
+    bottom: 0;
+    background: url(/images/image-rotator/trans-black-70.png);
+    width: 340px;
+    height: 180px;
+    z-index: 10
+}
+.ss1_wrapper .slideshow_box .data {
+    padding: 15px;
+    color: #ccc
+}
+.ss1_wrapper .slideshow_box .data h4 {
+    color: #fff;
+    font-family: Open Sans;
+    font-weight: 500;
+    font-size: 18px;
+    padding: 0;
+    margin: 0 0 10px 0
+}
+.ss1_wrapper .slideshow_box .data p {
+    padding: 0;
+    margin: 0;
+    line-height: 140%
+}
+.ss1_wrapper .slideshow_box .data a {
+    font-family: Open Sans;
+    color: #e85b1f;
+    text-decoration: none;
+    background-size: cover;
+}*/

@@ -1,0 +1,1 @@
+$(function(){var b=$("#ldd_menu");b.children("li").each(function(){var d=$(this);var a=d.children("span");d.bind("mouseenter",function(){b.find(".ldd_submenu").stop(true,true).hide();d.find(".ldd_submenu").slideDown(300)}).bind("mouseleave",function(){d.find(".ldd_submenu").stop(true,true).hide()})})});
